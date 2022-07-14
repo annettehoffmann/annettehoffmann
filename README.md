@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
+</div>  
+  
 
-<!--
-**annettehoffmann/annettehoffmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">I'm Annette, a data nerd 👩🏼‍💻 and fiction writer ✍️.</div>  
+  
 
-Here are some ideas to get you started:
+<div align="center">🔭 I’m currently working on too many projects at once. Like this page.</div>  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">⚡ Fun fact: I prefer MacOS over Windows and Linux, but MacOS frustrates me with every new release.</div>  
+  
+
+<br/>  
+<br/>
+<br/>
+
+### <div align="center">On Github since 2015.</div>
